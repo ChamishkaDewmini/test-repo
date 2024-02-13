@@ -1,0 +1,82 @@
+Staff management section can be identified as another important section in our leisure
+management system. When gathering requirements, we found that an employee management
+system should be included in our leisure management system. This section handles all employee-
+related tasks in our system including employee registration, leave evaluation, and salary
+management. The administrator is the main actor in this section and he is the one who has the
+responsibility to manage all employees of the system.
+When new employees are recruited, the operation manager is the one who registers those
+employees into the system. To register employees to the system, Operation Manager can enter
+their personal details like name, address, age, date of birth etc. along with their qualifications and
+the job role they recruited. It's a common thing that changes are happening in employees' personal
+details such as addresses, and phone numbers. So, the operation manager can edit employee details
+whenever such an update is necessary to the employee personal profile. Also, when an employee
+resigns from the company, the operation manager can delete his details from the system. To delete
+an employee’s entry form, the operation manager should enter a valid reason before deleting it.
+Whenever an employee wants to get a leave, it should be approved by the operation manager. It's
+a common thing that employees want leave for their required things. When an employee applies
+for a leave from his leave page, approval from the operation manager is mandatory to process the
+leave. Operation Manager can approve or reject the leave requests of the employees. If the
+operation manager approves only, the employee can use his leave.
+The salary management part is a very critical section of every business. In this system the salary
+assigning part is done in this employee management section by the operation manager. Operation
+Manager can assign the salaries, bonuses and OT allocated for each and every employee in the
+system and can finalize them.
+The employee management section generates reports including monthly employee salary reports
+and monthly net income profit reports. Employee salary report generated based on employees’
+salaries. Net income profit report generates based on total income and liabilities business has.
+
+
+Non-Functional Requirement
+• User Friendly and Modern UI
+
+The GYM management system should be friendly with both types of users who
+have technical knowledge and who do not. Then we develop a UI that will be
+familiar with all users.
+
+• Availability
+
+Users of the MAX FITNESS LADIES GYM system should have functions to work
+with it time and anywhere. Then Availability is the most important requirement we
+have focused on.
+
+• Security and Privacy
+
+As the GYM management system we should be responsible for data of a large
+number of users. Then We mainly focused on who to protect data of users without
+it going to the third-party users.
+
+• Reliability
+
+The GYM management system has to work with a large number of users in real
+time. MAX FITNESS LADIES GYM should have an ability to work with many
+users.
+• Responsive Design
+
+MAX FITNESS LADIES GYM can be accessed via Desktop view or Mobile
+view. Then we used responsive design to make it friendly with both mobile and
+desktop views.
+
+• Data Backup
+
+MAX FITNESS LADIES GYM must work with data of many users, and we have
+responsibility to protect those. Then it is necessary to have a backup of data. Then
+we are planning to have a backup server.
+
+Technical requirements
+
+❖ User Authentication and Access Control: The system should allow users to create
+accounts and authenticate themselves before accessing the system. The access control
+should be designed to ensure that only authorized users can access sensitive data and
+functions within the app.
+❖ Membership Management: The system should be able to manage memberships,
+including new sign-ups, renewals, and cancellations. It should also be able to track
+member attendance and provide reports on member activity.
+❖ Class and Schedule Management: The system should be able to manage classes and
+schedules, including creating, updating, and canceling classes. It should also allow
+users to sign up for classes and track attendance.
+❖ Payment Processing: The system should be able to process payments for membership
+fees, class fees, and other services offered by the gym.
+❖ Reporting and Analytics: The system should be able to generate reports and provide
+analytics on member activity, class attendance, and financial performance.
+❖Integration with other systems: The system should be able to integrate with other
+systems, such as accounting software, marketing platforms, and scheduling tools.
